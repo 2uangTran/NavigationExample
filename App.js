@@ -13,8 +13,8 @@ const App=()=> {
     <PaperProvider>
       <NavigationContainer>
           <StackNavigator></StackNavigator>
-          {/* <DrawerNavigator></DrawerNavigator> */}
-          {/* <TabNavigator></TabNavigator> */}
+          <DrawerNavigator></DrawerNavigator>
+          <TabNavigator></TabNavigator>
       </NavigationContainer>
     </PaperProvider>
   )

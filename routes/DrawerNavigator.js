@@ -6,7 +6,6 @@ import HomeScreen from '../screen/HomeScreen';
 import DetailsScreen from '../screen/DetailsScreen';
 import AboutsScreen from '../screen/AboutsScreen';
 
-
 const Drawer = createDrawerNavigator();
 const DrawerNavigator = () => {
   return (
